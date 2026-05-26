@@ -27,13 +27,14 @@ BrewStock Agent provides a simple agentic workflow:
 - Demo purchase order creation
 - Manager confirmation flow
 - Simple frontend and backend integration
+- MongoDB Atlas database integration
 
 ## Tech Stack
-
 - Frontend: Next.js, React, Tailwind CSS
 - Backend: Node.js, Express.js
-- Database: Currently in-memory MVP data
-- Planned Partner Integration: MongoDB Atlas + MongoDB MCP Server
+- Database: MongoDB Atlas
+- Partner Track: MongoDB
+- Planned Partner Integration: MongoDB MCP Server
 - Planned Agent Layer: Gemini + Google Cloud Agent Builder
 
 ## Project Structure
