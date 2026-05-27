@@ -40,8 +40,7 @@ type PurchaseOrder = {
   created_at: string;
 };
 
-const API_BASE_URL = "http://localhost:5001";
-
+const API_BASE_URL = "https://brewstock-backend-611787017892.asia-south1.run.app";
 export default function Home() {
   const [inventory, setInventory] = useState<InventoryItem[]>([]);
   const [recommendedOrders, setRecommendedOrders] = useState<RecommendedOrder[]>([]);
