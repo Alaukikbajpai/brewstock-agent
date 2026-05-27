@@ -364,14 +364,18 @@ This project is aligned with the Google Cloud Rapid Agent Hackathon requirements
 - Solves a real-world inventory management problem for coffee shops
 ---
 ## Future Scope
+
+- Sales-based stock deduction using menu recipes and product size variants
+- POS integration for automatic inventory updates
+- Small, medium, and large recipe mapping for each drink
+- Milk-type customization such as regular milk, oat milk, almond milk, and soy milk
+- Add-on tracking for syrups, toppings, extra shots, cups, lids, ice, and straws
 - Expiry and waste alerts
-- Sales-based stock deduction
 - Supplier email generation
 - Multi-store inventory support
-- Demand forecasting based on sales history
+- Demand forecasting from historical sales
 - Role-based manager approval
 - Real supplier API integration
-- POS integration
 - Analytics dashboard for consumption trends
 - Low-stock notifications
 ---
